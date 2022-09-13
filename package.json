@@ -1,0 +1,16 @@
+{
+  "name": "flex-sdk-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@eversdk/core": "^1.37.1",
+    "@eversdk/lib-node": "^1.37.1",
+    "flex-sdk-js": "github:tonlabs/flex-sdk-js"
+  }
+}
